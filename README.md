@@ -20,6 +20,7 @@ from **data collection and cleaning** → to **analysis and visualization** → 
 The repository is divided into thematic folders. Each contains learning projects with a **consistent structure** (data, notebooks, code, reports, docs).
 
 analytics-lab/
+
 ├── 01-excel-sheets/ → Excel & Google Sheets projects 
 
 ├── 02-bi-tools/ → Power BI, Tableau & Looker dashboards
