@@ -20,13 +20,20 @@ from **data collection and cleaning** → to **analysis and visualization** → 
 The repository is divided into thematic folders. Each contains learning projects with a **consistent structure** (data, notebooks, code, reports, docs).
 
 analytics-lab/
-├── 01-excel-sheets/ → Excel & Google Sheets projects
+├── 01-excel-sheets/ → Excel & Google Sheets projects 
+
 ├── 02-bi-tools/ → Power BI, Tableau & Looker dashboards
+
 ├── 03-sql/ → SQL queries and case studies
+
 ├── 04-python/ → Python analytics and scripting
+
 ├── 05-ml/ → Machine Learning experiments
+
 ├── 06-ai-engineering/ → AI Engineering (LLMs, MLOps, Deployments)
+
 ├── 07-data-engineering/ → Data Engineering (ETL, pipelines, warehousing)
+
 └── README.md → You are here
 
 Each subfolder includes:
